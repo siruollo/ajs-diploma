@@ -48,5 +48,3 @@
     "last 2 Firefox versions"
   ]
   
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
-}
